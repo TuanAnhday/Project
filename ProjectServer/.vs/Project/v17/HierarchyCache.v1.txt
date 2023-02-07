@@ -1,0 +1,264 @@
+﻿++Solution 'Project' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Project.sln
+++Project
+i:{00000000-0000-0000-0000-000000000000}:Project
+++Connected Services 
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>521
+++SQL Server Database
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>622
+++Dependencies
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>520
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:>359
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>360
+++Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:analyzers
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:analyzers
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:analyzers
+++Frameworks
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:frameworks
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:frameworks
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:frameworks
+++Packages
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:packages
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:packages
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:packages
+++AutoMapper (12.0.1)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>568
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>555
+++EventFlow.DependencyInjection (0.83.4713)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>560
+++Microsoft.AspNetCore.App (2.2.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>556
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>562
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>533
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.12)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>565
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>603
+++Microsoft.AspNetCore.Mvc (2.2.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>566
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>606
+++Microsoft.EntityFrameworkCore (7.0.2)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>554
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>529
+++Microsoft.EntityFrameworkCore.Design (7.0.2)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>557
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>531
+++Microsoft.EntityFrameworkCore.Tools (6.0.10)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>604
+++Microsoft.Extensions.DependencyInjection (7.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>567
+++Microsoft.Extensions.DependencyInjection.Abstractions (7.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>563
+++Microsoft.Extensions.Hosting (7.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>605
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>530
+++Microsoft.Extensions.Options (7.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>571
+++Microsoft.NETCore.App (2.2.8)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>569
+++Newtonsoft.Json (13.0.2)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>559
+++Pomelo.EntityFrameworkCore.MySql (7.0.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>570
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>539
+++Swashbuckle.AspNetCore (6.5.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>558
+++Swashbuckle.AspNetCore.Newtonsoft (6.5.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>561
+++Swashbuckle.AspNetCore.SwaggerGen (6.5.0)
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>564
+++Projects
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:projects
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:projects
+++Project.Domain
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project.domain\project.domain.csproj
+i:{00000000-0000-0000-0000-000000000000}:Project.Domain
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.domain\project.domain.csproj
+++Project.Infrastructure
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project.infrastructure\project.infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Project.Infrastructure
+++Properties
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\properties\
+++launchSettings.json
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\properties\launchsettings.json
+++Controllers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\controllers\
+++UsersController.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\controllers\userscontroller.cs
+++WeatherForecastController.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\controllers\weatherforecastcontroller.cs
+++Utils
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\utils\
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\utils\
+++Filters
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\utils\filters\
+++HttpResponseExceptionFilter.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\utils\filters\httpresponseexceptionfilter.cs
+++MappingProfile.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\utils\mappingprofile.cs
+++Web
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\
+++Requests
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\requests\
+++CreateRequests
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\requests\createrequests\
+++User
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\requests\createrequests\user\
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\aggregates\user\
+++RegisterRequest.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\requests\createrequests\user\registerrequest.cs
+++Responses
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\responses\
+++CreateResponses
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\responses\createresponses\
+++CreateResponses.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\responses\createresponses\createresponses.cs
+++Shared
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\responses\shared\
+++ErrorResponses.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\responses\shared\errorresponses.cs
+++ViewModels
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\viewmodels\
+++UserViewModel.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\web\viewmodels\userviewmodel.cs
+++appsettings.Development.json
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\appsettings.development.json
+++appsettings.json
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\appsettings.json
+++Program.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\program.cs
+++Startup.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\startup.cs
+++WeatherForecast.cs
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\weatherforecast.cs
+++SQL Server Database dependency is detected
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:>623
+++Microsoft.AspNetCore.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.6\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\program files\dotnet\sdk\6.0.301\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:c:\users\admin\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.6\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:c:\users\admin\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{5204813a-05d7-4806-b4f9-0ec8595e3f59}:e:\project2023\project\project\microsoft.netcore.app
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\microsoft.netcore.app
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\microsoft.netcore.app
+++Aggregates
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\aggregates\
+++User.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\aggregates\user\user.cs
+++AggregateRoot.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\aggregates\aggregateroot.cs
+++Entity.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\aggregates\entity.cs
+++Contracts
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\
+++Helpers
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\helpers\
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\utils\helpers\
+++IAuthenticator.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\helpers\iauthenticator.cs
+++Responsitoties
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\responsitoties\
+++IUserRepository.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\responsitoties\iuserrepository.cs
+++Services
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\services\
+++HttpResponseException.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\contracts\services\httpresponseexception.cs
+++Settings
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\
+++Sections
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\sections\
+++Email.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\sections\email.cs
+++Jwt.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\sections\jwt.cs
+++Web.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\sections\web.cs
+++AppSettings.cs
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:e:\project2023\project\project.domain\settings\appsettings.cs
+++Microsoft.AspNetCore.Authorization (7.0.2)
+i:{4bab706d-aaeb-424d-b00c-2303c9f0f6da}:>583
+++Data
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\
+++Models
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\models\
+++DataModel.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\models\datamodel.cs
+++UseDataModel.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\models\usedatamodel.cs
+++Repositories
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\repositories\
+++UserRepository.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\repositories\userrepository.cs
+++ProjectDbContext.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\projectdbcontext.cs
+++ProjectDbContextExtension.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\data\projectdbcontextextension.cs
+++Migrations
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\migrations\
+++Exceptions
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\utils\exceptions\
+++Auth.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\utils\exceptions\auth.cs
+++Authenticator.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\utils\helpers\authenticator.cs
+++20230205152353_init.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\migrations\20230205152353_init.cs
+++ProjectDbContextModelSnapshot.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\migrations\projectdbcontextmodelsnapshot.cs
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>607
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>540
+++Microsoft.EntityFrameworkCore.Relational (7.0.2)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>536
+++Microsoft.EntityFrameworkCore.Tools (7.0.2)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>538
+++Microsoft.Extensions.Identity.Core (7.0.2)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>535
+++Microsoft.Extensions.Identity.Stores (7.0.2)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>541
+++Microsoft.IdentityModel.Tokens (6.26.0)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>537
+++System.IdentityModel.Tokens.Jwt (6.26.0)
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:>532
+++20230205152353_init.Designer.cs
+i:{43e7ae4e-8145-48f9-bb41-1443d29addb3}:e:\project2023\project\project.infrastructure\migrations\20230205152353_init.designer.cs
