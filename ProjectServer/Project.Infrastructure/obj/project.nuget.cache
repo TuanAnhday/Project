@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n2aSjQlBugwqRISGAWC8FyLR0TVq3ErexAyz2anuIjEqdU8hAeHPItIiuF/7lc+MuRtzBJzKpDiyawoTTnEVGw==",
+  "dgSpecHash": "RE9dh2m+wgu923whss02SyXKNcRkVdCkvCpuQ9T6in6HqALd6muaUEFwA9foArJXrdRYHUYsoKiYu9dn9a6tKw==",
   "success": true,
-  "projectFilePath": "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

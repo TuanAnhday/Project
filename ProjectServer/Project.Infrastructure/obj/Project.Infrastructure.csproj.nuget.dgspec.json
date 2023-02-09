@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\Project2023\\ProjectServer\\Project.Domain\\Project.Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project2023\\ProjectServer\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "E:\\Project2023\\ProjectServer\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Project2023\\ProjectServer\\Project.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,18 +61,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "projectName": "Project.Infrastructure",
-        "projectPath": "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Project2023\\ProjectServer\\Project.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Project2023\\ProjectServer\\Project.Domain\\Project.Domain.csproj": {
-                "projectPath": "E:\\Project2023\\ProjectServer\\Project.Domain\\Project.Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\clone\\Clone\\Project\\ProjectServer\\Project.Domain\\Project.Domain.csproj"
               }
             }
           }
@@ -171,7 +172,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -180,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

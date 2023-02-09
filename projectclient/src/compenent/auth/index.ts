@@ -1,1 +1,0 @@
-import AuthPage from "./AuthPage";
