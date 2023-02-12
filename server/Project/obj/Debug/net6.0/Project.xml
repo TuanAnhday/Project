@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project</name>
+    </assembly>
+    <members>
+        <member name="M:Project.Controllers.UsersController.Register(Project.Web.Requests.CreateRequests.User.RegisterRequest)">
+            <summary>
+            Tạo tài khoản người dùng
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Project.Controllers.UsersController.Login(Project.Web.Requests.CreateRequests.User.LoginRequest)">
+            <summary>
+            Đăng nhập với username và password
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

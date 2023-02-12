@@ -1,0 +1,74 @@
+.form-control {
+	box-shadow: none !important;
+
+	// Dropdown shown state
+	.dropdown.show>& {
+		color: #0c0c0c;
+		background-color: #ccc;
+		border-color: #ccc;
+	}
+
+	// Readonly state
+	&[readonly] {
+		background-color: #ccc;
+
+		// Solid style
+		&.form-control-solid {
+			background-color: #000;
+			border-color: #000;
+			color: #ccc;
+
+			.dropdown.show>&,
+			&:active,
+			&.active,
+			&:focus,
+			&.focus {
+				background-color: #ccc;
+				border-color: #000;
+				color: #ccc;
+			}
+		}
+
+		// Transparent style
+		&.form-control-transparent {
+			background-color: transparent;
+			border-color: transparent;
+
+			.dropdown.show>&,
+			&:active,
+			&.active,
+			&:focus,
+			&.focus {
+				background-color: transparent;
+				border-color: transparent;
+			}
+		}
+
+		// Flush
+
+	}
+}
+
+.required {
+	&:after {
+		content: "*";
+		position: relative;
+		font-size: inherit;
+		color: red;
+		padding-left: 0.25rem;
+		font-weight: bold;
+	}
+}
+
+*,
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.error-text {
+	color: red;
+	font-size: 13px;
+	font-style: italic;
+}

@@ -1,0 +1,19 @@
+.login-container {
+    margin: 0 auto 0 auto !important;
+    height: 100vh;
+
+    >div {
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 3px #ccc;
+        flex-basis: 500px;
+        h1{
+            background-color: #147ee8;
+            border-radius: 16px;
+            color: #fff;
+            text-align: center;
+            box-shadow: 3px 3px 6px #ccc;
+        }
+    }
+}
