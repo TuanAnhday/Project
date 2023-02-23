@@ -8,6 +8,10 @@ import AppRouters from './routing/AppRouters'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './style.scss'
 
+import * as _redux from './setup'
+import axios from 'axios'
+
+_redux.setupAxios(axios, store)
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>

@@ -19,6 +19,7 @@ namespace Project
 {
     public class Startup
     {
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -48,6 +49,7 @@ namespace Project
             })
                 .AddEntityFrameworkStores<ProjectDbContext>()
                 .AddDefaultTokenProviders();
+            services.AddAuthentication();
 
             services.AddControllers(options => { options.Filters.Add<HttpResponseExceptionFilter>(); });
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo { Title = "Project", Version = "v1" });
@@ -59,6 +61,15 @@ namespace Project
                     Scheme = "Bearer",
                 });
             });
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                    builder.SetIsOriginAllowed(_ => true)
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
+
             #region Service Injection
 
             #region IRepositories
@@ -73,28 +84,43 @@ namespace Project
             services.AddSwaggerGenNewtonsoftSupport();
             services.AddAutoMapper(c => c.AddProfile<MappingProfile>());
             services.AddMvc();
+            //services.AddCors(options =>
+            //{
+            //    options.AddDefaultPolicy(builder =>
+            //    {
+            //        builder.AllowAnyOrigin()
+            //               .AllowAnyHeader()
+            //               .AllowAnyMethod();
+            //    });
+            //});
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure (IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Project v1"));
+               
             }
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Project v1"));
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthentication();
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
-            app.UseCors(builder => builder
-                        .SetIsOriginAllowedToAllowWildcardSubdomains()
-                        .WithOrigins(Configuration.GetSection("AllowedOrigins").Value.Split(","))
-                        .AllowAnyHeader()
-                        .AllowAnyMethod()
-                        .AllowCredentials()
-                        );
+            //app.UseCors(builder => builder
+            //   .SetIsOriginAllowedToAllowWildcardSubdomains()
+            //   .WithOrigins(Configuration.GetSection("AllowedOrigins").Value.Split(","))
+            //   //.AllowAnyOrigin()
+            //   .AllowAnyHeader()
+            //   .AllowAnyMethod()
+            //   .AllowCredentials());
+            app.UseCors();
+            //app.UseCors(MyAllowSpecificOrigins);
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
 
     }

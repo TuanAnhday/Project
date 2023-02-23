@@ -1,6 +1,7 @@
 export default function setupAxios(axios: any, store: any) {
   axios.defaults.headers.Accept = 'application/json;charset=utf-8'
   axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*'
+
   axios.interceptors.request.use(
     (config: any) => {
       const {

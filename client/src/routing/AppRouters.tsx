@@ -5,7 +5,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import App from '../App'
 import {AuthPage} from '../component/auth'
 import {UserModel} from '../component/auth/models/UserModel'
-import {RootState} from '../setup/Index'
+import {RootState} from '../setup'
 
 const {PUBLIC_URL} = process.env
 
